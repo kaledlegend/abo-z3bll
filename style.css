@@ -1,0 +1,68 @@
+            *{
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+            ;margin:0; 
+            padding:0;
+            box-sizing: border-box;
+             scroll-behavior: smooth;}
+
+            header {                background-color:aliceblue;
+            width: 100%;
+            position: fixed;                z-index: 999;
+             display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 200px;}
+            .logo {
+             text-decoration: none;
+             color: #3a6cf4;
+             text-transform: uppercase;
+             font-weight: 700;
+             font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+             font-size: 1.8em;
+            }
+        .navigation a{
+            color: #3a6cf4;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 1.1em;
+             font-weight: 500;
+             padding-left: 30px;
+            }
+         .navigation a:hover {
+                color: #601cfc;}
+        .fa-youtube {
+            font-size: 100px;
+            color:black
+        }
+        .fa-discord
+        {
+            font-size: 100px;
+            color:black
+        }
+        .fa-instagram {
+            font-size: 100px;
+            color:black
+        }
+        .fa-snapchat {
+            font-size: 100px;
+            color: black;
+        }
+        body {
+            background : linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
+        }
+            
+        img {border-radius: 50%;}
+        h1 {text-align: center;}
+        h2 {text-align: center;}
+        img{
+            display: block;
+            margin: auto;}
+                    
+        .social {font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            color: dodgerblue;}
+                    
+        .legend {
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+                        ; 
+            text-align: center;
+}
